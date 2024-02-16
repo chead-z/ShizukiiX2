@@ -140,7 +140,7 @@ def index():
         </div>
     </section>
     <footer>
-        &copy; 2024 Shizukii #1 para suas keys - Todos os direitos reservados.
+        &copy; Shizukii#1.
     </footer>
 
     <script>
